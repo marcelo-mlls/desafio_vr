@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.desafio</groupId>
-    <artifactId>pedidos-swing-client</artifactId>
+    <artifactId>pedidos_service</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
